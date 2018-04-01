@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/syamdanda/interesting-world/issues"
   },
-  "homepage": "https://github.com/syamdanda/interesting-world#readme"
+  "homepage": "https://github.com/syamdanda/interesting-world#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
 }
