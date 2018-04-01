@@ -1,0 +1,27 @@
+{
+  "name": "interesting-world",
+  "version": "1.0.0",
+  "description": "You give a word, we will tell it's world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syamdanda/interesting-world.git"
+  },
+  "keywords": [
+    "interesting",
+    "interesting",
+    "facts",
+    "news",
+    "meetups",
+    "images"
+  ],
+  "author": "devsGarden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syamdanda/interesting-world/issues"
+  },
+  "homepage": "https://github.com/syamdanda/interesting-world#readme"
+}
