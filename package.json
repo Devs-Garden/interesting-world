@@ -1,6 +1,6 @@
 {
   "name": "interesting-world",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "You give a word, we will tell it's world.",
   "main": "index.js",
   "scripts": {
