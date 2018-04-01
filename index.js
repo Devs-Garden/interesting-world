@@ -28,7 +28,7 @@ var InterestingWorld = function(API_KEY) {
 		};
   	//return obj;
   	this.getLangResponse = function(word) {
-  		return new Dictionary('Syam Danda');
+  		return new Dictionary(word);
   	}
 }
 
