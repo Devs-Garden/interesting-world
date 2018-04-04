@@ -1,6 +1,6 @@
 {
   "name": "interesting-world",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "You give a word, we will tell it's world.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "images"
   ],
   "author": "devsGarden",
-  "license": "ISC",
+  "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/syamdanda/interesting-world/issues"
   },
